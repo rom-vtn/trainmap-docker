@@ -1,0 +1,7 @@
+{
+    "host_port": 80,
+    "sight_day_preview_count": 2,
+    "database_filepath": "/data/trainmap.db",
+    "serve_frontend": true,
+    "frontend_root": "/data/trainmap-site/"
+}

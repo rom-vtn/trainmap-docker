@@ -1,0 +1,11 @@
+{
+    "db_path": "/data/trainmap.db",
+    "contents": [
+        {
+            "active": true,
+            "db_filename": "UNUSED FIELD, WILL CHANGE LATER",
+            "display_name": "FR:SNCF (TER feed, as an example)",
+            "feed_url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip"
+        }
+    ]
+}
