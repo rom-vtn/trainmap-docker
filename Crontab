@@ -1,1 +1,1 @@
-* * * * * root /exec/loader /config/loader_config.json; killall api
+0 4 * * * root /exec/loader /config/loader_config.json; killall api
